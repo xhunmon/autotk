@@ -5,7 +5,8 @@ AutoTK是使用Android官方API实现自动化处理海外抖音tiktok的app，�
 
 配置教程：
 
-<img src="./doc/1.jpg" alt="1" style="zoom:25%;" />
+<img src="./doc/1.jpg" alt="1" width=50% /><br>
+
 
 <img src="./doc/2.jpg" alt="2" style="zoom:25%;" />
 
